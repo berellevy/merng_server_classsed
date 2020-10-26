@@ -23,4 +23,3 @@ const postSchema = new Schema({
   }
 })
 module.exports = model('Post', postSchema);
-// hello
